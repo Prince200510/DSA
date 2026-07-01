@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 | [3637-trionic-array-i](https://github.com/Prince200510/DSA/tree/master/3637-trionic-array-i) |
 ## Breadth-First Search
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Prince200510/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 ## Depth-First Search
 |  |
