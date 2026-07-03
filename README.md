@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Prince200510/DSA/tree/master/0127-word-ladder) |
+| [0165-compare-version-numbers](https://github.com/Prince200510/DSA/tree/master/0165-compare-version-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince200510/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Graph Theory
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince200510/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/Prince200510/DSA/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
