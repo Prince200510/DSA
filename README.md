@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prince200510/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Prince200510/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
