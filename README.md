@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Prince200510/DSA/tree/master/1288-remove-covered-intervals) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Prince200510/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3637-trionic-array-i](https://github.com/Prince200510/DSA/tree/master/3637-trionic-array-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Prince200510/DSA/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince200510/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Prince200510/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Prince200510/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Prince200510/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
