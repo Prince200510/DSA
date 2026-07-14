@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3637-trionic-array-i](https://github.com/Prince200510/DSA/tree/master/3637-trionic-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Prince200510/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Prince200510/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Prince200510/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Prince200510/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Prince200510/DSA/tree/master/1291-sequential-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Prince200510/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
