@@ -38,10 +38,10 @@ public:
 
                 level.push_back(node->val);
             }
-            // result.push_back(level);
-            result.insert(result.begin(), level);
+            result.push_back(level);
+            // result.insert(result.begin(), level); using this o(n^2)
         }
-        // reverse(result.begin(), result.end());
+        reverse(result.begin(), result.end()); // o(l) no of insertion upcoming lvl total o(n)
         return result;
     }
 };
