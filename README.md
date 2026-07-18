@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prince200510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prince200510/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/Prince200510/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Prince200510/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prince200510/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prince200510/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Prince200510/DSA/tree/master/0785-is-graph-bipartite) |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/Prince200510/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prince200510/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince200510/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -182,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prince200510/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince200510/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Heap (Priority Queue)
@@ -195,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prince200510/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince200510/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Prince200510/DSA/tree/master/1514-path-with-maximum-probability) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
