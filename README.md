@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prince200510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Prince200510/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince200510/DSA/tree/master/1288-remove-covered-intervals) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prince200510/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Prince200510/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prince200510/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Prince200510/DSA/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 ## Depth-First Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Prince200510/DSA/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Prince200510/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince200510/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
