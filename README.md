@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Prince200510/DSA/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince200510/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prince200510/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Prince200510/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince200510/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prince200510/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Prince200510/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prince200510/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Prince200510/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
 ## Database
 |  |
 | ------- |
