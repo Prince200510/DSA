@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prince200510/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Prince200510/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Prince200510/DSA/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince200510/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3637-trionic-array-i](https://github.com/Prince200510/DSA/tree/master/3637-trionic-array-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Prince200510/DSA/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince200510/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prince200510/DSA/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Prince200510/DSA/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Prince200510/DSA/tree/master/1905-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Prince200510/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1905-count-sub-islands](https://github.com/Prince200510/DSA/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince200510/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prince200510/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Prince200510/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/Prince200510/DSA/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince200510/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Hash Table
 |  |
