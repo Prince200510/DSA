@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince200510/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Prince200510/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Prince200510/DSA/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Prince200510/DSA/tree/master/0146-lru-cache) |
 | [0523-continuous-subarray-sum](https://github.com/Prince200510/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Prince200510/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prince200510/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -314,4 +315,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prince200510/DSA/tree/master/0486-predict-the-winner) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prince200510/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prince200510/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prince200510/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
