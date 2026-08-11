@@ -1,24 +1,26 @@
 class Solution {
 public:
-    string reversess(string &s) {
-        int left = 0;
-        int right = s.size() - 1;
+    string binarys(int n) {
+        string result = "";
 
-        while(left < right) {
-            swap(s[left], s[right]);
-            left++;
-            right--;
+        while(n != 0) {
+            int r = n % 2;
+            result += char('0' + r);
+            n /= 2;
         }
 
-        return s;
+        while(result.length() < 32) {
+            result += '0';
+        }
+        
+        reverse(result.begin(), result.end());
+        return result;
     }
 
     int reverseBits(int n) {
-        bitset<32> b(n);
-        string s = b.to_string();
-
-        reversess(s);
-
-        return stoi(s, nullptr, 2);
+        string s = binarys(n);
+        reverse(s.begin(), s.end());
+        int decimal = stoi(s, nullptr, 2);
+        return decimal;    
     }
 };
