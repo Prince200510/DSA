@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/Prince200510/DSA/tree/master/2293-min-max-game) |
 | [2401-longest-nice-subarray](https://github.com/Prince200510/DSA/tree/master/2401-longest-nice-subarray) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prince200510/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince200510/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince200510/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince200510/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince200510/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prince200510/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2401-longest-nice-subarray](https://github.com/Prince200510/DSA/tree/master/2401-longest-nice-subarray) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prince200510/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince200510/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince200510/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Prince200510/DSA/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prince200510/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prince200510/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prince200510/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince200510/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince200510/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prince200510/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Prince200510/DSA/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prince200510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Prince200510/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prince200510/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
 |  |
 | ------- |
