@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prince200510/DSA/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Prince200510/DSA/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/Prince200510/DSA/tree/master/0909-snakes-and-ladders) |
+| [0922-sort-array-by-parity-ii](https://github.com/Prince200510/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prince200510/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prince200510/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Prince200510/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Prince200510/DSA/tree/master/0658-find-k-closest-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/Prince200510/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince200510/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prince200510/DSA/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince200510/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Prince200510/DSA/tree/master/0658-find-k-closest-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/Prince200510/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/Prince200510/DSA/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prince200510/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prince200510/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
