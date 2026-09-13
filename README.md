@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince200510/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Prince200510/DSA/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Prince200510/DSA/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Prince200510/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Prince200510/DSA/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/Prince200510/DSA/tree/master/0909-snakes-and-ladders) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prince200510/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prince200510/DSA/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Prince200510/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Prince200510/DSA/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Prince200510/DSA/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Prince200510/DSA/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/Prince200510/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prince200510/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
