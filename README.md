@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Prince200510/DSA/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/Prince200510/DSA/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Prince200510/DSA/tree/master/0556-next-greater-element-iii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince200510/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince200510/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prince200510/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince200510/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -370,12 +371,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince200510/DSA/tree/master/0020-valid-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Prince200510/DSA/tree/master/0895-maximum-frequency-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince200510/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince200510/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prince200510/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince200510/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince200510/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince200510/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Prince200510/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prince200510/DSA/tree/master/2029-stone-game-ix) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince200510/DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince200510/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prince200510/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince200510/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
