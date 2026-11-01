@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Prince200510/DSA/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince200510/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Prince200510/DSA/tree/master/2029-stone-game-ix) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prince200510/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2293-min-max-game](https://github.com/Prince200510/DSA/tree/master/2293-min-max-game) |
 | [2401-longest-nice-subarray](https://github.com/Prince200510/DSA/tree/master/2401-longest-nice-subarray) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prince200510/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince200510/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince200510/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prince200510/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prince200510/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince200510/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince200510/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prince200510/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Prince200510/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prince200510/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince200510/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Prince200510/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/Prince200510/DSA/tree/master/1302-deepest-leaves-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prince200510/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
 |  |
 | ------- |
